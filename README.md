@@ -2,7 +2,7 @@
 
 - Added partial support for RSA-SHA-256 crypto-conditions
 
-The server is now accepts and is able to validate transactions with [simple](https://tools.ietf.org/html/draft-thomas-crypto-conditions-03#section-3.1)
+The server now accepts and is able to validate transactions with [simple](https://tools.ietf.org/html/draft-thomas-crypto-conditions-03#section-3.1)
 crypto-conditions using RSA.
 
 
