@@ -1,3 +1,13 @@
+# Fork of BigchainDB server code
+
+- Added partial support for RSA-SHA-256 crypto-conditions
+
+The server is now accepts and is able to validate transactions with [simple](https://tools.ietf.org/html/draft-thomas-crypto-conditions-03#section-3.1)
+crypto-conditions using RSA.
+
+
+# Original README
+
 [![PyPI](https://img.shields.io/pypi/status/bigchaindb.svg?maxAge=2592000)](https://pypi.python.org/pypi/BigchainDB)
 [![PyPI](https://img.shields.io/pypi/v/bigchaindb.svg)](https://pypi.python.org/pypi/BigchainDB)
 [![Travis branch](https://img.shields.io/travis/bigchaindb/bigchaindb/master.svg)](https://travis-ci.org/bigchaindb/bigchaindb)
